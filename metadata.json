@@ -1,0 +1,6 @@
+{
+  "name": "HomeSelect",
+  "description": "Helping you choose the right paint. A minimal, modern, and trustworthy homepage design.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
